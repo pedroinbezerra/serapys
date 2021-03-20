@@ -1,0 +1,146 @@
+.mt-110{
+    margin-top: 110px;
+}
+
+.card-example {
+    margin-top: 190px;
+}
+
+.mt-80{
+    margin-top: 80px;
+}
+
+.mr--15{
+    margin-right: -15px;
+}
+
+.ml-10p{
+    margin-left: 10%;
+}
+
+.ml-10{
+    margin-left: 128px;
+}
+
+.primary-text{
+    text-align: justify; 
+    width: 55%;
+}
+
+.lightpink{
+    color: #ffbaa1 !important;
+}
+
+.moment-img {
+    border-color: red; 
+    border-width: 1px; 
+    border-style: solid; 
+    border-radius: 100%; 
+    padding-left: 17px; 
+    padding-right: 17px; 
+    padding-top: 8px; 
+    padding-bottom: 8px; 
+    margin-bottom: 24px; 
+    border-color: #ffbaa1;
+}
+
+.card-img, .card-img-top, .card, .card-body {
+    border-top-left-radius: 40px !important;
+    border-top-right-radius: 40px !important;
+}
+
+.img-card{
+    width: 286px !important;
+    height: 286px !important;
+}
+
+.card{
+    border-bottom-left-radius: 40px !important;
+    border-bottom-right-radius: 40px !important;
+}
+
+.card-button{
+    border-radius: 15px !important;
+    background: linear-gradient(to bottom,#ffbaa1 15%,#ee786e 100%);
+    border-color: transparent;
+}
+
+.fw300{
+    font-weight: 300;
+}
+
+.fw400{
+    font-weight: 400;
+}
+
+.body-card{
+    width: 18rem; 
+    margin-top: -35px;
+}
+
+.card{
+    width: 18rem;
+}
+
+input {
+	outline: none;
+	border: none;
+}
+
+.wrap-input {
+  width: 100%;
+  position: relative;
+  border-bottom: 2px solid #ffbaa1;
+  margin-bottom: 37px;
+}
+
+.input-width-100 {
+  width: 100%;
+}
+
+.card-shadow {
+    box-shadow:         9px 7px 5px rgba(104, 103, 103, 0.77);
+}
+
+.mp-zero {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.memorial-text {
+    padding-left: 64px;
+}
+
+@media screen and (max-width: 1300px) {
+    .card-example {
+        margin-left: 124px !important;
+    }
+
+    .card-form {
+        margin-left: 24px !important;
+    }
+}
+
+.card-form {
+    margin-left: 32px !important;
+}
+
+@media screen and (max-width: 500px) {
+    .card-example {
+        margin-left: 0px !important;
+        margin-top: 32px !important;
+    }
+
+    .card-form {
+        margin-left: 24px !important;
+    }
+
+    .memorial-text {
+        padding-left: 24px;
+    }
+}
+
+.section {
+    margin-top: 48px !important;
+    margin-bottom: 48px !important;
+}
